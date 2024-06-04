@@ -1,2 +1,2 @@
 # GEA_MetaAnalysis
-Contains code to run the analyses of Farleigh & Jezkova (in prep).
+This repository will contain code to run analyses detailed in Farleigh & Jezkova (*in prep*). Please reach out to [Keaka Farleigh](https://kfarleigh.github.io/contact/) if you have any questions.
